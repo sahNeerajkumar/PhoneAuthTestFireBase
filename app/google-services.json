@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167712342452",
+    "project_id": "fir-6e284",
+    "storage_bucket": "fir-6e284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167712342452:android:20d1c28ed929ba21ebb2e1",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcnayxVzX9GpvqkLc8F6NoQv0KFzOtzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
